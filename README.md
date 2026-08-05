@@ -34,7 +34,7 @@ Ingeniera Informática con más de 15 años de experiencia en banca, bolsa de va
 
 ## ⭐ Proyecto destacado
 
-### 🏠 [datalakeUpload](https://github.com/PaoEiri/datalakeUpload) — Análisis del mercado inmobiliario de Málaga
+###  [datalakeUpload](https://github.com/PaoEiri/datalakeUpload) — Análisis del mercado inmobiliario de Málaga
 
 Pipeline de datos end-to-end (ingesta → data warehouse → visualización) que analiza la evolución del precio de la vivienda en Málaga desde 2001, con datos abiertos de Tinsa, el Ministerio de Transportes y el INE.
 
@@ -56,11 +56,11 @@ Análisis a nivel de los 11 distritos de la ciudad: Bailén-Miraflores lidera el
 
 **Stack:** Python · dbt · Prefect · PostgreSQL · MinIO · FastAPI · Power BI · Docker
 
-🔗 [Ver dashboard interactivo](TU_LINK_POWERBI_PUBLISH_TO_WEB) · 📄 [Ver repositorio completo](https://github.com/PaoEiri/datalakeUpload)
+🔗 [Ver dashboard interactivo](https://paoeiri.github.io/datalakeUpload/docs/index.html) · 📄 [Ver repositorio completo](https://github.com/PaoEiri/datalakeUpload)
 
 ---
 
-## 📂 Otros proyectos
+## Otros proyectos
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -71,7 +71,7 @@ Análisis a nivel de los 11 distritos de la ciudad: Bailén-Miraflores lidera el
 
 ---
 
-## ✅ Habilidades 
+## Habilidades 
 
 - Diseño de agentes conversacionales y pipelines LLM (LangGraph, RAG) aplicados a casos de uso reales.
 - Ciclo completo de ingeniería de datos: ingesta, transformación (dbt), orquestación (Prefect) y almacenamiento en data lake/warehouse.
