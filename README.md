@@ -42,7 +42,7 @@ Pipeline de datos end-to-end (ingesta → data warehouse → visualización) que
 
 <div align="center">
 
-![Evolución del precio de la vivienda en Málaga](docs/images/dashboard-evolucion-precios.png)
+![Evolución del precio de la vivienda en Málaga](dashboard-evolucion-precios.png)
 
 </div>
 
