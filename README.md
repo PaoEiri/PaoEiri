@@ -10,7 +10,6 @@ Ingeniera Informática con más de 15 años de experiencia en banca, bolsa de va
 
 🎓 Máster en Big Data e IA — Universidad de Málaga · Docencia completada, TFM en evaluación
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolacmg)
 
 </div>
 
@@ -84,8 +83,4 @@ Análisis a nivel de los 11 distritos de la ciudad: Bailén-Miraflores lidera el
 
 ---
 
-<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/paolacmg)
-
-</div>
