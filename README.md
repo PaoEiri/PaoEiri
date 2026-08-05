@@ -1,6 +1,6 @@
 <div align="center">
 
-# Paola Morales Gaspar
+# Paola Morales
 
 ### Business Analyst · Data & Conversational AI | Python · SQL · LLMs
 
