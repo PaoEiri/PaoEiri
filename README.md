@@ -46,6 +46,14 @@ Pipeline de datos end-to-end (ingesta → data warehouse → visualización) que
 
 </div>
 
+**Comparativa por distritos**
+Análisis a nivel de los 11 distritos de la ciudad: Bailén-Miraflores lidera el crecimiento a 10 años (+137,83%), Campanillas el crecimiento interanual (+26,93%), y Este tiene el precio máximo actual (€3.929/m²).
+
+<div align="center">
+
+![Comparativa por distritos de Málaga](dashboard-distritos.png)
+
+
 **Stack:** Python · dbt · Prefect · PostgreSQL · MinIO · FastAPI · Power BI · Docker
 
 🔗 [Ver dashboard interactivo](TU_LINK_POWERBI_PUBLISH_TO_WEB) · 📄 [Ver repositorio completo](https://github.com/PaoEiri/datalakeUpload)
