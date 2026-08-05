@@ -1,6 +1,6 @@
 <div align="center">
 
-# Paola Morales
+# Paola MG
 
 ### Business Analyst · Data & Conversational AI | Python · SQL · LLMs
 
