@@ -2,7 +2,7 @@
 
 # Paola MG
 
-### Business Analyst · Data & Conversational AI | Python · SQL · LLMs
+### Business & Data Analyst ·  Conversational AI | Python · SQL · LLMs
 
 Ingeniera Informática con más de 15 años de experiencia en banca, bolsa de valores y fintech, especializada en análisis de datos conversacionales, diseño de chatbots con IA/NLP y automatización de procesos. Amplío este perfil hacia ingeniería de datos, machine learning y LLMs a través de proyectos propios.
 
