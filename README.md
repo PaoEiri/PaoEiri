@@ -2,7 +2,7 @@
 
 # Paola MG
 
-### Business & Data Analyst ·  Conversational AI | Python · SQL · LLMs
+### Business & Data Analyst · Conversational AI Designer | Python · SQL · LLMs
 
 Ingeniera Informática con más de 15 años de experiencia en banca, bolsa de valores y fintech, especializada en diseño de procesos y análisis de datos, diseño de chatbots con IA/NLP y automatización de procesos. Amplío este perfil hacia ingeniería de datos, machine learning y LLMs a través de proyectos propios.
 
@@ -31,6 +31,15 @@ Ingeniera Informática con más de 15 años de experiencia en banca, bolsa de va
 
 ---
 
+## 🤖 IA conversacional y generativa
+
+5 años diseñando experiencias conversacionales para asistentes virtuales bancarios de alto volumen (Interbank y BCP): journeys, flujos conversacionales, NLU e integración con IA generativa (RAG). Ahora exploro nuevos modelos de interacción con IA en proyectos propios:
+
+- 📖 **[Cuentos Mágicos con IA](https://github.com/PaoEiri/storybook-AI)**: experiencia generativa multimodal en la que el dibujo de un niño se convierte en el protagonista de un cuento interactivo, con texto en streaming e ilustraciones en tiempo real. Arquitectura desacoplada de proveedores (Strategy + Factory). *Python · Streamlit · OpenAI · Gemini · Docker*
+- ✈️ **[travelplanner](https://github.com/rjrbio/travelplanner)** *(proyecto en equipo – Bootcamp de IA, Fundación Esplai)*: asistente en lenguaje natural con agentes (LangGraph + RAG) que convierte la descripción de un viaje en un itinerario día a día. **Mi parte:** integración con servicios externos de consulta (vuelos y alojamiento), creación de la base de conocimiento del RAG y su chunking e indexación en ChromaDB. *FastAPI · LangGraph · Ollama · ChromaDB · PostgreSQL*
+
+---
+
 ## ⭐ Proyecto destacado
 
 ###  [datalakeUpload](https://github.com/PaoEiri/datalakeUpload) — Análisis del mercado inmobiliario de Málaga
@@ -52,6 +61,7 @@ Análisis a nivel de los 11 distritos de la ciudad: Bailén-Miraflores lidera el
 
 ![Comparativa por distritos de Málaga](dashboard-distritos.png)
 
+</div>
 
 **Stack:** Python · dbt · Prefect · PostgreSQL · MinIO · FastAPI · Power BI · Docker
 
@@ -63,8 +73,6 @@ Análisis a nivel de los 11 distritos de la ciudad: Bailén-Miraflores lidera el
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| ✈️ [**travelplanner**](https://github.com/rjrbio/travelplanner) | Planificador de viajes con IA: el usuario describe su viaje en lenguaje natural y un pipeline de agentes (RAG + planner + itinerario) genera un itinerario día a día con atracciones reales. | FastAPI · LangGraph · Ollama · ChromaDB · PostgreSQL |
-| 📖 [**Cuentos Mágicos con IA**](https://github.com/PaoEiri/storybook-AI) | Aplicación de IA generativa multimodal: convierte el dibujo de un niño en el protagonista de un cuento interactivo, con texto en streaming e ilustraciones generadas en tiempo real. Arquitectura desacoplada de proveedores (Strategy + Factory). | Python · Streamlit · OpenAI · Gemini · Docker |
 | 🧠 [**data-science-portfolio**](https://github.com/PaoEiri/data-science-portfolio) | Colección de proyectos de Machine Learning, Deep Learning, series de tiempo y Big Data — clasificación, clustering, transfer learning con ResNet50/VGG16, forecasting y PySpark. | Python · scikit-learn · PyTorch · PySpark · Prophet |
 | ⚙️ [**revolutionary-mlops**](https://github.com/PaoEiri/MlOpsAdvance) | Pipeline de CI/CD para MLOps 100% automatizado: lint → tests → entrenamiento → validación con quality gates → despliegue de dashboard de métricas en GitHub Pages. | GitHub Actions · uv · pytest · ruff |
 
@@ -72,6 +80,7 @@ Análisis a nivel de los 11 distritos de la ciudad: Bailén-Miraflores lidera el
 
 ## Habilidades 
 
+- Diseño de experiencias conversacionales: journeys, flujos, arquitectura de interacción, NLU y validación con usuarios.
 - Diseño de agentes conversacionales y pipelines LLM (LangGraph, RAG) aplicados a casos de uso reales.
 - Ciclo completo de ingeniería de datos: ingesta, transformación (dbt), orquestación (Prefect) y almacenamiento en data lake/warehouse.
 - Diseño y evaluación rigurosa de modelos de ML (validación cruzada, tuning de hiperparámetros, comparación de algoritmos).
@@ -82,5 +91,3 @@ Análisis a nivel de los 11 distritos de la ciudad: Bailén-Miraflores lidera el
 - Comunicación de resultados mediante dashboards y visualizaciones profesionales (Power BI).
 
 ---
-
-
