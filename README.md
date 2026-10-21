@@ -63,8 +63,8 @@ Análisis a nivel de los 11 distritos de la ciudad: Bailén-Miraflores lidera el
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| ✈️ [**travelplanner**](https://github.com/PaoEiri/travelplanner) | Planificador de viajes con IA: el usuario describe su viaje en lenguaje natural y un pipeline de agentes (RAG + planner + itinerario) genera un itinerario día a día con atracciones reales. | FastAPI · LangGraph · Ollama · ChromaDB · PostgreSQL |
-| 📖 [**Cuentos Mágicos con IA**](https://github.com/PaoEiri/storybook_ai) | Aplicación de IA generativa multimodal: convierte el dibujo de un niño en el protagonista de un cuento interactivo, con texto en streaming e ilustraciones generadas en tiempo real. Arquitectura desacoplada de proveedores (Strategy + Factory). | Python · Streamlit · OpenAI · Gemini · Docker |
+| ✈️ [**travelplanner**](https://github.com/rjrbio/travelplanner) | Planificador de viajes con IA: el usuario describe su viaje en lenguaje natural y un pipeline de agentes (RAG + planner + itinerario) genera un itinerario día a día con atracciones reales. | FastAPI · LangGraph · Ollama · ChromaDB · PostgreSQL |
+| 📖 [**Cuentos Mágicos con IA**](https://github.com/PaoEiri/storybook-AI) | Aplicación de IA generativa multimodal: convierte el dibujo de un niño en el protagonista de un cuento interactivo, con texto en streaming e ilustraciones generadas en tiempo real. Arquitectura desacoplada de proveedores (Strategy + Factory). | Python · Streamlit · OpenAI · Gemini · Docker |
 | 🧠 [**data-science-portfolio**](https://github.com/PaoEiri/data-science-portfolio) | Colección de proyectos de Machine Learning, Deep Learning, series de tiempo y Big Data — clasificación, clustering, transfer learning con ResNet50/VGG16, forecasting y PySpark. | Python · scikit-learn · PyTorch · PySpark · Prophet |
 | ⚙️ [**revolutionary-mlops**](https://github.com/PaoEiri/MlOpsAdvance) | Pipeline de CI/CD para MLOps 100% automatizado: lint → tests → entrenamiento → validación con quality gates → despliegue de dashboard de métricas en GitHub Pages. | GitHub Actions · uv · pytest · ruff |
 
