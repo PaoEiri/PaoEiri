@@ -33,22 +33,21 @@ Ingeniera Informática con más de 15 años de experiencia en banca, bolsa de va
 
 ## 🤖 IA conversacional y generativa
 
+
 5 años diseñando experiencias conversacionales para asistentes virtuales bancarios de alto volumen (Interbank y BCP): journeys, flujos conversacionales, NLU e integración con IA generativa (RAG). Ahora exploro nuevos modelos de interacción con IA en proyectos propios:
 
 - 📖 **[Cuentos Mágicos con IA](https://github.com/PaoEiri/storybook-AI)**: experiencia generativa multimodal en la que el dibujo de un niño se convierte en el protagonista de un cuento interactivo, con texto en streaming e ilustraciones en tiempo real. Arquitectura desacoplada de proveedores (Strategy + Factory). *Python · Streamlit · OpenAI · Gemini · Docker*
+
 <div align="center">
 <table>
   <tr>
-    <td>
-      ![Página inicial](pantalla1.png)
-
-    </td>
-      <td>
-      ![Página cargada](pantalla2.png)
-
-    </td>
+    <td align="center"><img src="pantalla1.png" alt="Pantalla inicial: el niño sube su dibujo" width="400"><br><sub>1. El niño sube su dibujo</sub></td>
+    <td align="center"><img src="pantalla2.png" alt="Cuento generado con el dibujo como protagonista" width="400"><br><sub>2. El cuento se genera con su dibujo como protagonista</sub></td>
   </tr>
 </table>
+</div>
+
+- ✈️ **[travelplanner](https://github.com/rjrbio/travelplanner)** *(proyecto en equipo – Bootcamp de IA, Fundación Esplai)*: asistente en lenguaje natural con agentes (LangGraph + RAG) que convierte la descripción de un viaje en un itinerario día a día. **Mi parte:** integración con servicios externos de consulta (vuelos y alojamiento), creación de la base de conocimiento del RAG y su chunking e indexación en ChromaDB. *FastAPI · LangGraph · Ollama · ChromaDB · PostgreSQL*
 
 </div>
 - ✈️ **[travelplanner](https://github.com/rjrbio/travelplanner)** *(proyecto en equipo – Bootcamp de IA, Fundación Esplai)*: asistente en lenguaje natural con agentes (LangGraph + RAG) que convierte la descripción de un viaje en un itinerario día a día. **Mi parte:** integración con servicios externos de consulta (vuelos y alojamiento), creación de la base de conocimiento del RAG y su chunking e indexación en ChromaDB. *FastAPI · LangGraph · Ollama · ChromaDB · PostgreSQL*
