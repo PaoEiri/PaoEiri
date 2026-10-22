@@ -63,7 +63,7 @@ Ingeniera Informática con más de 15 años de experiencia en banca, bolsa de va
 
 Pipeline de datos end-to-end (ingesta → data warehouse → visualización) que analiza la evolución del precio de la vivienda en Málaga desde 2001, su relación con indicadores socioeconómicos y la proyección del precio, con datos abiertos de Tinsa, el Ministerio de Transportes y el INE.
 
-**De €696 a €3.004 por m² en 25 años** (+13,8 % en el último año), con una proyección de **€3.300/m² para el T3 2027** (+9,7 %).
+**De €800 a €3.004 por m² en 25 años** (+13,8 % en el último año), con una proyección de **€3.300/m² para el T3 2027** (+9,7 %).
 
 <div align="center">
   <img src="Pagina_0.png" alt="Portada del dashboard: indicadores clave de Málaga capital y distritos" width="700"><br>
