@@ -49,8 +49,6 @@ Ingeniera Informática con más de 15 años de experiencia en banca, bolsa de va
 
 - ✈️ **[travelplanner](https://github.com/rjrbio/travelplanner)** *(proyecto en equipo – Bootcamp de IA, Fundación Esplai)*: asistente en lenguaje natural con agentes (LangGraph + RAG) que convierte la descripción de un viaje en un itinerario día a día. **Mi parte:** integración con servicios externos de consulta (vuelos y alojamiento), creación de la base de conocimiento del RAG y su chunking e indexación en ChromaDB. *FastAPI · LangGraph · Ollama · ChromaDB · PostgreSQL*
 
-</div>
-- ✈️ **[travelplanner](https://github.com/rjrbio/travelplanner)** *(proyecto en equipo – Bootcamp de IA, Fundación Esplai)*: asistente en lenguaje natural con agentes (LangGraph + RAG) que convierte la descripción de un viaje en un itinerario día a día. **Mi parte:** integración con servicios externos de consulta (vuelos y alojamiento), creación de la base de conocimiento del RAG y su chunking e indexación en ChromaDB. *FastAPI · LangGraph · Ollama · ChromaDB · PostgreSQL*
 
 ---
 
