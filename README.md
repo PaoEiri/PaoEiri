@@ -66,7 +66,7 @@ Pipeline de datos end-to-end (ingesta → data warehouse → visualización) que
 **De €696 a €3.004 por m² en 25 años** (+13,8 % en el último año), con una proyección de **€3.300/m² para el T3 2027** (+9,7 %).
 
 <div align="center">
-  <img src="dashboard-portada.png" alt="Portada del dashboard: indicadores clave de Málaga capital y distritos" width="700"><br>
+  <img src="Pagina_0.png" alt="Portada del dashboard: indicadores clave de Málaga capital y distritos" width="700"><br>
   <sub>Portada: indicadores clave, distritos destacados y acceso a cada análisis</sub>
 </div>
 
@@ -75,8 +75,8 @@ Pipeline de datos end-to-end (ingesta → data warehouse → visualización) que
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="dashboard-evolucion-precios.png" alt="Evolución del precio de la vivienda en Málaga" width="400"><br><sub>Evolución del precio: Málaga vs Andalucía vs España y transacciones</sub></td>
-    <td align="center"><img src="dashboard-distritos.png" alt="Comparativa por distritos de Málaga" width="400"><br><sub>Comparativa entre los 11 distritos de la ciudad</sub></td>
+    <td align="center"><img src="Pagina_1.png" alt="Evolución del precio de la vivienda en Málaga" width="400"><br><sub>Evolución del precio: Málaga vs Andalucía vs España y transacciones</sub></td>
+    <td align="center"><img src="Pagina_2" alt="Comparativa por distritos de Málaga" width="400"><br><sub>Comparativa entre los 11 distritos de la ciudad</sub></td>
   </tr>
 </table>
 </div>
