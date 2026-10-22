@@ -57,30 +57,36 @@ Ingeniera Informática con más de 15 años de experiencia en banca, bolsa de va
 
 ## ⭐ Proyecto destacado
 
-###  [datalakeUpload](https://github.com/PaoEiri/datalakeUpload) — Análisis del mercado inmobiliario de Málaga
 
-Pipeline de datos end-to-end (ingesta → data warehouse → visualización) que analiza la evolución del precio de la vivienda en Málaga desde 2001, con datos abiertos de Tinsa, el Ministerio de Transportes y el INE.
 
-**De €696 a €2.931 por m² en 25 años** (+14,7% solo en el último año), con diferencias de hasta el **137,83%** en 10 años entre distritos de la ciudad.
+### [datalakeUpload](https://github.com/PaoEiri/datalakeUpload) — Análisis del mercado inmobiliario de Málaga
 
-<div align="center">
+Pipeline de datos end-to-end (ingesta → data warehouse → visualización) que analiza la evolución del precio de la vivienda en Málaga desde 2001, su relación con indicadores socioeconómicos y la proyección del precio, con datos abiertos de Tinsa, el Ministerio de Transportes y el INE.
 
-![Evolución del precio de la vivienda en Málaga](dashboard-evolucion-precios.png)
-
-</div>
-
-**Comparativa por distritos**
-Análisis a nivel de los 11 distritos de la ciudad: Bailén-Miraflores lidera el crecimiento a 10 años (+137,83%), Campanillas el crecimiento interanual (+26,93%), y Este tiene el precio máximo actual (€3.929/m²).
+**De €696 a €3.004 por m² en 25 años** (+13,8 % en el último año), con una proyección de **€3.300/m² para el T3 2027** (+9,7 %).
 
 <div align="center">
-
-![Comparativa por distritos de Málaga](dashboard-distritos.png)
-
+  <img src="dashboard-portada.png" alt="Portada del dashboard: indicadores clave de Málaga capital y distritos" width="700"><br>
+  <sub>Portada: indicadores clave, distritos destacados y acceso a cada análisis</sub>
 </div>
+
+<br>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="dashboard-evolucion-precios.png" alt="Evolución del precio de la vivienda en Málaga" width="400"><br><sub>Evolución del precio: Málaga vs Andalucía vs España y transacciones</sub></td>
+    <td align="center"><img src="dashboard-distritos.png" alt="Comparativa por distritos de Málaga" width="400"><br><sub>Comparativa entre los 11 distritos de la ciudad</sub></td>
+  </tr>
+</table>
+</div>
+
+**Hallazgos por distritos:** Este tiene el precio más alto (€3.936/m²), Campanillas el mayor crecimiento interanual (+19,4 %) y Bailén-Miraflores el mayor crecimiento a 10 años (+148,5 %).
 
 **Stack:** Python · dbt · Prefect · PostgreSQL · MinIO · FastAPI · Power BI · Docker
 
 🔗 [Ver dashboard interactivo](https://paoeiri.github.io/datalakeUpload/docs/index.html) · 📄 [Ver repositorio completo](https://github.com/PaoEiri/datalakeUpload)
+
 
 ---
 
