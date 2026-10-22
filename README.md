@@ -76,7 +76,7 @@ Pipeline de datos end-to-end (ingesta → data warehouse → visualización) que
 <table>
   <tr>
     <td align="center"><img src="Pagina_1.png" alt="Evolución del precio de la vivienda en Málaga" width="400"><br><sub>Evolución del precio: Málaga vs Andalucía vs España y transacciones</sub></td>
-    <td align="center"><img src="Pagina_2" alt="Comparativa por distritos de Málaga" width="400"><br><sub>Comparativa entre los 11 distritos de la ciudad</sub></td>
+    <td align="center"><img src="Pagina_2.png" alt="Comparativa por distritos de Málaga" width="400"><br><sub>Comparativa entre los 11 distritos de la ciudad</sub></td>
   </tr>
 </table>
 </div>
